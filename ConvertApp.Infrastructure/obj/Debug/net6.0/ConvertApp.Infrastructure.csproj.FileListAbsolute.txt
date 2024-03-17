@@ -1,0 +1,15 @@
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\bin\Debug\net6.0\ConvertApp.Infrastructure.deps.json
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\bin\Debug\net6.0\ConvertApp.Infrastructure.dll
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\bin\Debug\net6.0\ConvertApp.Infrastructure.pdb
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\bin\Debug\net6.0\ConvertApp.Domain.dll
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\bin\Debug\net6.0\ConvertApp.Domain.pdb
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.AssemblyInfo.cs
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.csproj.CopyComplete
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.dll
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\refint\ConvertApp.Infrastructure.dll
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ConvertApp.Infrastructure.pdb
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Infrastructure\obj\Debug\net6.0\ref\ConvertApp.Infrastructure.dll

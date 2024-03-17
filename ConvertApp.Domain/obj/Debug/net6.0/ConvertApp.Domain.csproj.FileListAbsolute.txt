@@ -1,0 +1,12 @@
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\bin\Debug\net6.0\ConvertApp.Domain.deps.json
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\bin\Debug\net6.0\ConvertApp.Domain.dll
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\bin\Debug\net6.0\ConvertApp.Domain.pdb
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ConvertApp.Domain.csproj.AssemblyReference.cache
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ConvertApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ConvertApp.Domain.AssemblyInfoInputs.cache
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ConvertApp.Domain.AssemblyInfo.cs
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ConvertApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ConvertApp.Domain.dll
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\refint\ConvertApp.Domain.dll
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ConvertApp.Domain.pdb
+C:\Users\yamaji\Desktop\ConvertApp\ConvertApp.Domain\obj\Debug\net6.0\ref\ConvertApp.Domain.dll

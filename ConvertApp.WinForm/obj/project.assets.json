@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "ConvertApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ConvertApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConvertApp.Domain.dll": {}
+        }
+      },
+      "ConvertApp.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ConvertApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConvertApp.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConvertApp.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ConvertApp.Domain/ConvertApp.Domain.csproj",
+      "msbuildProject": "../ConvertApp.Domain/ConvertApp.Domain.csproj"
+    },
+    "ConvertApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../ConvertApp.Infrastructure/ConvertApp.Infrastructure.csproj",
+      "msbuildProject": "../ConvertApp.Infrastructure/ConvertApp.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "ConvertApp.Domain >= 1.0.0",
+      "ConvertApp.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yamaji\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yamaji\\Desktop\\ConversionApp\\ConvertApp.WinForm\\ConvertApp.WinForm.csproj",
+      "projectName": "ConvertApp.WinForm",
+      "projectPath": "C:\\Users\\yamaji\\Desktop\\ConversionApp\\ConvertApp.WinForm\\ConvertApp.WinForm.csproj",
+      "packagesPath": "C:\\Users\\yamaji\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yamaji\\Desktop\\ConversionApp\\ConvertApp.WinForm\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yamaji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\yamaji\\Desktop\\ConversionApp\\ConvertApp.Domain\\ConvertApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\yamaji\\Desktop\\ConversionApp\\ConvertApp.Domain\\ConvertApp.Domain.csproj"
+            },
+            "C:\\Users\\yamaji\\Desktop\\ConversionApp\\ConvertApp.Infrastructure\\ConvertApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\yamaji\\Desktop\\ConversionApp\\ConvertApp.Infrastructure\\ConvertApp.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
